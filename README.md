@@ -10,6 +10,12 @@ To switch using nvm:
 nvm use 16.16.0
 ```
 
+Install dependencies with npm:
+
+```bash
+npm install
+```
+
 ## What I did
 
 - Made an API request to get posts to display them as a list
